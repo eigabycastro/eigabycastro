@@ -1,5 +1,5 @@
 # Hello, my name is Gabrielly Castro! 👋
-<hr style="border: 0; height: 1px; background-color: #ff12ac;">
+
 
 - 💼 I work as a Product Technician at XCMG BRASIL
 - 🎓 I study Information Systems at Univas
