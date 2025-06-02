@@ -32,7 +32,6 @@
 
 ![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigabycastro&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eigabycastro&layout=compact&theme=radical)
-![Citação](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=seu-username&color=brightgreen)
+
 
 
