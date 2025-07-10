@@ -30,7 +30,7 @@
 ### 📈 My Statistics on GitHub
 
 
-![Technologies](https://github-readme-stats.vercel.app/api?username=eigabycastro&show_icons=true&theme=radical)
-![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=eigabycastro&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=eigabycastro&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=eigabycastro&theme=radical)
 
 
