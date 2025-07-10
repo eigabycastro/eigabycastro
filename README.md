@@ -31,6 +31,6 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eigabycastro&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=eigabycastro&theme=radical)
+![Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=eigabycastro&layout=compact&theme=radical)
 
 
